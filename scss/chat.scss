@@ -39,3 +39,11 @@ html body.has-sidebar-page.has-full-page-chat {
 #new-account-link{
   pointer-events: none;
 }
+
+span[data-text="[en.theme_translations.6.search_banner.search_button_text"] {
+  display: none;
+}
+
+.search-icon>span {
+  display: none;
+}
