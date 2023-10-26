@@ -57,3 +57,11 @@ html body.has-sidebar-page.has-full-page-chat {
 .sign-up-button{
   display: none;
 }
+
+.login-modal .modal-body #login-form #credentials {
+  display: none !important;
+}
+
+.login-modal .modal-footer {
+  display: none !important;
+}
