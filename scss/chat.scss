@@ -40,10 +40,16 @@ html body.has-sidebar-page.has-full-page-chat {
   pointer-events: none;
 }
 
-span[data-text="[en.theme_translations.6.search_banner.search_button_text"] {
-  display: none;
-}
 
 .search-icon>span {
   display: none;
+}
+
+.login-left-side{
+  display: none;
+}
+
+.login-right-side{
+      width: 200px;
+        height: 300px;
 }
